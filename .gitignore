@@ -1,0 +1,14 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.env
+
+# MovieLens dataset and generated data
+data/
+models/
+*.npy
+
+# Editor and OS files
+.vscode/
+.DS_Store
