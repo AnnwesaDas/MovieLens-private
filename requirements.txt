@@ -1,4 +1,7 @@
 
 pandas
+numpy
 scikit-learn
 nltk
+rank-bm25
+sentence-transformers
